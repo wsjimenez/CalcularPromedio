@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalcularNotaPromedio</string>
+    <string name="parcial_40">Parcial 40%</string>
+    <string name="tercer_20">Tercer 20%</string>
+</resources>
